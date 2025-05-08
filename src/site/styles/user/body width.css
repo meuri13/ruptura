@@ -1,5 +1,0 @@
-body {
- main.content {
-    max-width: max(800px, calc(100% - 100px))
-  }
-}
