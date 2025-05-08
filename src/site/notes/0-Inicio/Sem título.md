@@ -7,10 +7,10 @@
 >**[[2-Diário de sessões/2-Diário de sessões\|Sessões]]**
 > ![z_arquivos/Livro-ordem.png](/img/user/z_arquivos/Livro-ordem.png)
 > 
-> **[[3-Equipe/3-Equipe\|Equipe]]**
+> **[[3-Personagens/3-Personagens\|Equipe]]**
 > ![z_arquivos/Eles.png](/img/user/z_arquivos/Eles.png)
 > 
-> **[[4-Mundo/NPCs/Príncipes/Príncipes\|Príncipes]]**
+> **[[3-Personagens/NPCs/Príncipes/Príncipes\|Príncipes]]**
 > ![z_arquivos/Principes.png](/img/user/z_arquivos/Principes.png)
 # Sessões
 | Nome | Data da sessão |
