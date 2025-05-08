@@ -1,0 +1,9 @@
+body {
+  body.markdown-rendered {
+      --page-max-width: 800px;
+      --left-side-width: 280px;
+      --left-side-margin: 15px
+      --right-side-width: 300px;
+      --right-side-margin: 15 px;
+    }
+}
