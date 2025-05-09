@@ -12,7 +12,6 @@
 > **[[3-Personagens/NPCs/Príncipes/Príncipes\|Príncipes]]**
 > ![z_arquivos/Principes.png|425](/img/user/z_arquivos/Principes.png)
 
-
 | Nome                                                            | Data da sessão | Resumo                                                                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[2-Diário de sessões/Primeiras sessões\|Primeiras sessões]] | 01-02-24       | Cidade no interior de Minas, me acharam no porão de uma igreja. Menção ao Kendan, dono da igreja e da Rádio, ele que colocou as coisas lá, causava xiado e enlouquecia as pessoas. Muitas pessoas morreram tentando invadir a estação de rádio em um estado meio zumbificado. Maxwell nos salvou e levou pra ordem.
