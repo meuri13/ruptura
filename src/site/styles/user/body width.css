@@ -1,4 +1,4 @@
-/* Reset básico */
+/* Reset padrão */
 * {
   margin: 0;
   padding: 0;
@@ -15,10 +15,10 @@
   padding: 20px;
 }
 
-/* Conteúdo principal adaptável */
-.main-content {
-  margin-left: 300px; /* espaço para a sidebar */
+/* Conteúdo principal */
+main.content {
+  margin-left: 300px; /* espaço pro sidebar */
   padding: 20px;
-  width: min(100%, 1000px); /* não ultrapassa 1000px */
-  max-width: calc(100vw - 300px); /* nunca invade a sidebar */
+  max-width: 1000px; /* limita em telas muito grandes */
+  width: calc(100vw - 320px); /* ocupa o resto da tela com folga */
 }
