@@ -1,5 +1,6 @@
 body {
  main.content {
-    max-width: max(800px, calc(100% - 200px))
+   --max-width: max(800px, calc(100% - 200px);
+   --left-side-width: 280px
   }
 }
