@@ -7,7 +7,7 @@
 > ![0-Inicio-simbolo.png|426](/img/user/z_arquivos/0-Inicio-simbolo.png)
 > 
 > **[[3-Personagens/3-Personagens\|Personagens]]**
-> ![z_arquivos/Eles.png|400](/img/user/z_arquivos/Eles.png)
+> ![z_arquivos/Eles.png|410](/img/user/z_arquivos/Eles.png)
 > 
 > **[[3-Personagens/NPCs/Príncipes/Príncipes\|Príncipes]]**
 > ![z_arquivos/Principes.png|425](/img/user/z_arquivos/Principes.png)
