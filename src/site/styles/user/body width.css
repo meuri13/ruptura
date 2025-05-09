@@ -1,24 +1,24 @@
-/* Reset spacing and layout consistency */
+/* Reset básico */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Fix sidebar width and positioning */
+/* Sidebar fixa */
 .sidebar {
   position: fixed;
   top: 0;
   left: 0;
-  width: 280px; /* Fixed sidebar width */
+  width: 280px;
   height: 100%;
   padding: 20px;
 }
 
-/* Main content area: offset by sidebar and fixed width */
+/* Conteúdo principal adaptável */
 .main-content {
-  margin-left: 300px; /* Leave space for sidebar */
+  margin-left: 300px; /* espaço para a sidebar */
   padding: 20px;
-  max-width: 800px; /* Fixed width */
-  width: 800px;
+  width: min(100%, 1000px); /* não ultrapassa 1000px */
+  max-width: calc(100vw - 300px); /* nunca invade a sidebar */
 }
