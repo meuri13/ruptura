@@ -4,14 +4,13 @@
 
 > [!cards]
 >**[[2-Diário de sessões/2-Diário de sessões\|Sessões]]**
-> ![0-Inicio-simbolo.png|406](/img/user/z_arquivos/0-Inicio-simbolo.png)
+> ![0-Inicio-simbolo.png|416](/img/user/z_arquivos/0-Inicio-simbolo.png)
 > 
 > **[[3-Personagens/3-Personagens\|Personagens]]**
-> ![z_arquivos/Eles.png|380](/img/user/z_arquivos/Eles.png)
+> ![z_arquivos/Eles.png|390](/img/user/z_arquivos/Eles.png)
 > 
 > **[[3-Personagens/NPCs/Príncipes/Príncipes\|Príncipes]]**
-> ![z_arquivos/Principes.png|405](/img/user/z_arquivos/Principes.png)
-
+> ![z_arquivos/Principes.png|415](/img/user/z_arquivos/Principes.png)
 | Nome                                                            | Data da sessão | Resumo                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[2-Diário de sessões/Primeiras sessões\|Primeiras sessões]] | 01-02-24       | Cidade no interior de Minas, me acharam no porão de uma igreja. Menção ao Kendan, dono da igreja e da Rádio, ele que colocou as coisas lá, causava xiado e enlouquecia as pessoas. Muitas pessoas morreram tentando invadir a estação de rádio em um estado meio zumbificado. Maxuel nos salvou e levou pra ordem.
