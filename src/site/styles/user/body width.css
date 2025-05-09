@@ -17,8 +17,10 @@
 
 /* Conteúdo principal */
 main.content {
-  margin-left: 300px; /* espaço pro sidebar */
-  padding: 20px;
-  max-width: 1000px; /* limita em telas muito grandes */
+  margin-left: auto; /* espaço pro sidebar */
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 1rem;
+  max-width: 1200px; /* limita em telas muito grandes */
   width: calc(100vw - 320px); /* ocupa o resto da tela com folga */
 }
