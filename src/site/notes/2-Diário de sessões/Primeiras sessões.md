@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2-Diário de sessões/Primeiras sessões/","tags":["Anotação"]}
+{"dg-publish":true,"permalink":"/2-Diário de sessões/Primeiras sessões/","tags":["Anotação"],"noteIcon":"teste"}
 ---
 
 # [[2-Diário de sessões/Primeiras sessões\|Primeiras sessões]]
+::: e
 **Data da sessão**: `INPUT[date:data]`
+:::
 
 Cidade do interior de Minas Gerais ([[4-Mundo/Cidade/Ouro preto\|Ouro preto]])- não existe em mapas online, desatualizada e muito pequena
 ruas asfaltadas mas pouco cuidadas
