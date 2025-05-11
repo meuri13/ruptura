@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-Personagens/NPCs/Príncipes/Kendan/","tags":["#NPC","#Personagem","#Príncipe","#Liderança"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"Ruptura/Kendan.md","permalink":"/Ruptura/Kendan/","tags":["#NPC","#Personagem","#Príncipe","#Liderança"],"noteIcon":""}
 ---
 
 > [!metadata|c-white nbrd clean]- Dados
