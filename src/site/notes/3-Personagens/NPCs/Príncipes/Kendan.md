@@ -1,0 +1,51 @@
+---
+{"dg-publish":true,"permalink":"/3-Personagens/NPCs/Príncipes/Kendan/","tags":["#NPC","#Personagem","#Príncipe","#Liderança"],"noteIcon":""}
+---
+
+> [!metadata|c-white nbrd clean]- Dados
+> > [!metadata|bg-c-white nbrd n-th tbl-cln]- Tags
+> > |          |            |
+> > |-----|------|
+> > |`INPUT[Tags][:tags]`||
+> 
+> > [!metadata|bg-c-white nbrd n-th tbl-cln]- Imagem
+> > |                  |                                |
+> > | --------------- | --------------------------------- |
+> > |`INPUT[Imagem][:imagem]`|
+> 
+> > [!metadata|bg-c-white nbrd n-th tbl-cln]- Bio
+> >|                 |                                   |
+>>| --------------- | --------------------------------- |
+>>| **Pseudônimo**  | `INPUT[inlineList:aliases]` |
+>>| **Gênero**  | `INPUT[Gênero][:gênero]`    |
+>>| **Idade**   |  `INPUT[number:idade]`  |
+>>| **Organização**   | `INPUT[inlineListSuggester(optionQuery(#Grupo AND !"z_modelos"), useLinks(partial)):organização]` |
+>>| **Elemento**   |`INPUT[Elemento][:elemento]` |
+>>| **Propriedade**| `INPUT[inlineListSuggester(optionQuery(#Estabelecimento AND !"z_modelos"), useLinks(partial)):propriedade]` |
+>>| **Localização atual** | `INPUT[inlineListSuggester(optionQuery(#Local AND !"z_modelos"), useLinks(partial)):localização]` |
+>>| **Condição**| `INPUT[Condição][:condição]` |
+> 
+>>[!metadata|bg-c-white nbrd n-th tbl-cln]- Info da party
+>>|                       |     |
+>>| --------------------- | --- |
+>>|**Relação com a party**|`INPUT[Relação][:relação_party]` |
+
+
+# [[3-Personagens/NPCs/Príncipes/Kendan\|Kendan]]
+> [!infobox|lp right wikipedia]+
+> #  [[3-Personagens/NPCs/Príncipes/Kendan\|Kendan]]
+> `VIEW[{imagem}][image]`
+> ###### Bio
+> |  |  |
+> | ---- | ---- |
+> | Pseudônimo | `VIEW[{aliases}][text]` |
+> |Elemento| `VIEW[{elemento}][text]`|
+> | Idade | `VIEW[{idade}][text]` |
+> |Grupo| `VIEW[{organização}][link]`|
+> |Propriedade|`VIEW[{propriedade}][link]`|
+> |Localização atual|`VIEW[{localização}][link]`|
+> |Condição| `VIEW[{condição}][text]`|
+
+## Visão geral
+Dono da rádio em [[4-Mundo/Cidade/Ouro preto\|Ouro preto]]
+Colocou as celas e o piano na igreja
