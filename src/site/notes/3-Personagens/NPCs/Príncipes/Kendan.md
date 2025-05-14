@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Ruptura/Kendan.md","permalink":"/Ruptura/Kendan/","tags":["#NPC","#Personagem","#Príncipe","#Liderança"],"noteIcon":""}
+{"tags":["#NPC","#Personagem","#Príncipe","#Liderança"],"icon":"RaCrownOfThorns","iconColor":"white","obsidianUIMode":"preview","obsidianEditingMode":"live","imagem":"z_arquivos/SemImagem.webp","dg-publish":true,"aliases":["Dr Kendan","Dr Riddle","Riddle"],"dg-path":"Ruptura/Kendan.md","permalink":"/Ruptura/Kendan/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 > [!metadata|c-white nbrd clean]- Dados
