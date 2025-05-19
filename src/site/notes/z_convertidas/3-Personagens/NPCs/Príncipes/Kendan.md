@@ -51,7 +51,7 @@ dg-path: Ruptura/Kendan.md
 # [[z_convertidas/3-Personagens/NPCs/Príncipes/Kendan\|Kendan]]
 > [!infobox|lp right wikipedia]+
 > #  [[z_convertidas/3-Personagens/NPCs/Príncipes/Kendan\|Kendan]]
-> `<img src="z_arquivos/SemImagem.webp" alt="imagem" />`
+> `<img src="src/site/img/user/z_arquivos/SemImagem.webp" alt="imagem" />`
 > ###### Bio
 > |  |  |
 > | ---- | ---- |
