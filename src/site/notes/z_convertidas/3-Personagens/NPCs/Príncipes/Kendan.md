@@ -51,17 +51,17 @@ dg-path: Ruptura/Kendan.md
 # [[z_convertidas/3-Personagens/NPCs/Príncipes/Kendan\|Kendan]]
 > [!infobox|lp right wikipedia]+
 > #  [[z_convertidas/3-Personagens/NPCs/Príncipes/Kendan\|Kendan]]
-> <img src="/img/user/z_arquivos/SemImagem.webp" alt="imagem" />.
+> <img src="/img/user/z_arquivos/SemImagem.webp" alt="imagem" /><span></span>
 > ###### Bio
 > |  |  |
 > | ---- | ---- |
-> | Pseudônimo | Dr Kendan,Dr Riddle,Riddle |
-> |Elemento| |
-> | Idade |  |
+> | Pseudônimo | <span>Dr Kendan,Dr Riddle,Riddle</span> |
+> |Elemento| <span></span>|
+> | Idade | <span></span> |
 > |Grupo| |
-> |Propriedade| |
-> |Localização atual| |
-> |Condição|  |
+> |Propriedade||
+> |Localização atual||
+> |Condição| <span></span>|
 
 ## Visão geral
 Dono da rádio em [[4-Mundo/Cidade/Ouro preto\|Ouro preto]]
