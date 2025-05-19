@@ -5,7 +5,7 @@
 
 # [[z_convertidas/Primeiras sessões\|Primeiras sessões]]
 
-**Data da sessão**: `<input type="date" name="data" />`
+**Data da sessão**: <input type="date" name="data" />
 
 Cidade do interior de Minas Gerais ([[4-Mundo/Cidade/Ouro preto\|Ouro preto]])- não existe em mapas online, desatualizada e muito pequena
 ruas asfaltadas mas pouco cuidadas
@@ -46,4 +46,4 @@ Muitas pessoas morreram (acho que a cidade inteira)
 O oficial [[3-Personagens/NPCs/Maxuel\|Maxuel]] nos tirou da cidade
 
 ### Resumo
-`<textarea name="resumo"></textarea>`
+<textarea name="resumo"></textarea>
