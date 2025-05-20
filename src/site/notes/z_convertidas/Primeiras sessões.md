@@ -1,5 +1,5 @@
 ---
-{"tags":["Anotação"],"icon":"LiNotebookPen","iconColor":"white","dg-publish":true,"resumo":"Cidade no interior de Minas, me acharam no porão de uma igreja. Menção ao Kendan, dono da igreja e da Rádio, ele que colocou as coisas lá, causava xiado e enlouquecia as pessoas. Muitas pessoas morreram tentando invadir a estação de rádio em um estado meio zumbificado. Maxuel nos salvou e levou pra ordem.","data":"2024-02-01","dg-note-icon":"teste","dg-hide":true,"dg-path":null,"dg-permalink":"Sessões/Primeiras sessões","permalink":"/Sessões/Primeiras sessões/","hide":true,"dgPassFrontmatter":true,"noteIcon":"teste"}
+{"tags":["Anotação"],"icon":"LiNotebookPen","iconColor":"white","dg-publish":true,"resumo":"Cidade no interior de Minas, me acharam no porão de uma igreja. Menção ao Kendan, dono da igreja e da Rádio, ele que colocou as coisas lá, causava xiado e enlouquecia as pessoas. Muitas pessoas morreram tentando invadir a estação de rádio em um estado meio zumbificado. Maxuel nos salvou e levou pra ordem.","data":"2024-02-01","dg-note-icon":"teste","dg-hide":true,"dg-path":"Primeiras sessões","permalink":"/Primeiras sessões/","hide":true,"dgPassFrontmatter":true,"noteIcon":"teste"}
 ---
 
 
