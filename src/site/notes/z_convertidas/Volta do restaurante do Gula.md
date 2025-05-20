@@ -1,5 +1,5 @@
 ---
-{"tags":["Anotação"],"icon":"LiNotebookPen","iconColor":"white","dg-publish":true,"data":"2025-05-10","dg-hide":true,"permalink":"/z_convertidas/Volta do restaurante do Gula/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"tags":["Anotação"],"icon":"LiNotebookPen","iconColor":"white","dg-publish":true,"data":"2025-05-10","dg-hide":true,"dg-path":".","dg-permalink":"Sessões/","permalink":"/Sessões/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

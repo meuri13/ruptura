@@ -1,5 +1,5 @@
 ---
-{"tags":["Anotação"],"icon":"LiNotebookPen","iconColor":"white","dg-publish":true,"data":"2024-02-24","dg-hide":true,"permalink":"/z_convertidas/Primeira missão/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"tags":["Anotação"],"icon":"LiNotebookPen","iconColor":"white","dg-publish":true,"data":"2024-02-24","dg-hide":true,"dg-path":".","permalink":"//","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
