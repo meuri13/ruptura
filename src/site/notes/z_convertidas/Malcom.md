@@ -1,5 +1,5 @@
 ---
-{"tags":["#NPC","#Personagem"],"icon":"RaPlayer","iconColor":"white","obsidianUIMode":"preview","obsidianEditingMode":"live","imagem":"z_arquivos/Malcom.png","dg-publish":true,"gênero":"Homem","organização":["[[z_convertidas/Ordem\|Ordem]]"],"localização":["[[z_convertidas/Base da ordem.md\|Base da ordem]]"],"condição":"Saudável","relação_party":"Amigo","dg-permalink":"NPC/Malcom","dg-path":"Malcom","permalink":"/NPC/Malcom/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Malcom","dg-permalink":"NPC/Malcom","permalink":"/NPC/Malcom/","tags":["#NPC","#Personagem"]}
 ---
 
 
@@ -11,8 +11,8 @@
 > |  |  |
 > | ---- | ---- |
 > | Idade | <span></span> |
-> |Grupo| [[z_convertidas/Ordem.md|Ordem]]|
-> |Localização atual|[[z_convertidas/Base da ordem.md|Base da ordem]]|
+> |Grupo| [[z_convertidas/Ordem\|Ordem]]|
+> |Localização atual|[[z_convertidas/Base da ordem.md\|Base da ordem]]|
 > |Condição| <span>Saudável</span>|
 
 ## Visão geral
