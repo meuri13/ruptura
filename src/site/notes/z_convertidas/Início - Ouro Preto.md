@@ -6,15 +6,15 @@
 # [[z_convertidas/Início - Ouro Preto\|Início - Ouro Preto]]
 **Data da sessão**: <span class="input-date">01/02/24</span>
 
-Cidade do interior de Minas Gerais ([[4-Mundo/Lugares/Ouro preto\|Ouro Preto]])- não existe em mapas online, desatualizada e muito pequena
+Cidade do interior de Minas Gerais ([[z_convertidas/Ouro preto\|Ouro preto]])- não existe em mapas online, desatualizada e muito pequena
 ruas asfaltadas mas pouco cuidadas
 casas simples parquinho, igreja e torre de rádio estalagem quebra barra parece uma cabaninha com luzes meio queimadas
 Recepcionista - [[3-Personagens/NPCs/Matheus\|Matheus]]
 
-Airbnb da [[3-Personagens/NPCs/Cleuza\|Cleuza]] na frente da padaria barra braza
+Airbnb da [[z_convertidas/Cleuza\|Cleuza]] na frente da padaria barra braza
 Casa humilde de vó
 
-Muito drama e traição ([[3-Personagens/NPCs/Rodrigo\|Rodrigo]] traiu o noivo e depois traiu a [[3-Personagens/NPCs/Cleuza\|dona Cleuza]] com a irmã dela)
+Muito drama e traição ([[z_convertidas/Rodrigo\|Rodrigo]] traiu o noivo e depois traiu a [[z_convertidas/Cleuza\|dona Cleuza]] com a irmã dela)
 
 ---
 Som de estática alto de todos os rádios da cidade durante a madrugada
@@ -22,12 +22,12 @@ Som de estática alto de todos os rádios da cidade durante a madrugada
 >Não lembro quem achou isso
 
 ![Primeiras sessões-documento.png|525](/img/user/z_arquivos/Primeiras%20sess%C3%B5es-documento.png)
-Assim como prometido senhor [[3-Personagens/Príncipes/Kendan\|Kendan]], eu irei usar a casa sagrada de nosso senhor para proteger e zelar por seus documentos e bens importantes, novamente agradeço pela doação do piano para a igreja e gostaria de adicionar que o sistema de segurança dele e de fechadura é surpreendentemente engenhosa e criativa.
+Assim como prometido senhor [[z_convertidas/Kendan\|Kendan]], eu irei usar a casa sagrada de nosso senhor para proteger e zelar por seus documentos e bens importantes, novamente agradeço pela doação do piano para a igreja e gostaria de adicionar que o sistema de segurança dele e de fechadura é surpreendentemente engenhosa e criativa.
 
 Gostaria de algum dia poder conversar com o senhor novamente e saber o motivo da senha que o senhor escolheu para o sistema do piano, por qual motivo o senhor escolheu a combinação de 310, e novamente pergunto, por que o senhor exigiu tanta segurança com nossa correspondência?
 
 ---
-[[3-Personagens/NPCs/Cleuza\|dona Cleuza]] amanheceu morta, acham que foram eles (players)
+[[z_convertidas/Cleuza\|dona Cleuza]] amanheceu morta, acham que foram eles (players)
 - Acharam digitais do [[3-Personagens/NPCs/Matheus\|Matheus]] no corpo dela
 
 Resolveram ir na igreja achar as coisas da Rádio
@@ -42,9 +42,9 @@ De madrugada os rádios começam a xiar muito alto
 Diversas pessoas estão andando em direção à rádio
 Na tentativa de proteger elas um porão caiu em cima do [[3-Personagens/Players/Lorenzo\|Lorenzo]], acho que ele morreu e voltou a vida
 Muitas pessoas morreram (acho que a cidade inteira)
-O oficial [[3-Personagens/Ordem/Maxuel\|Maxuel]] nos tirou da cidade
+O oficial [[z_convertidas/Maxuel\|Maxuel]] nos tirou da cidade
 
-**Data da última sessão: <span class="input-date">14/02/24</span>
+**Data da última sessão:** <span class="input-date">14/02/24</span>
 
 ### Resumo
 <div class="input-textarea">Cidade no interior de Minas, me acharam no porão de uma igreja. Menção ao Kendan, dono da igreja e da Rádio, ele que colocou as coisas lá, causava xiado e enlouquecia as pessoas. Muitas pessoas morreram tentando invadir a estação de rádio em um estado meio zumbificado. Maxuel nos salvou e levou pra ordem.
