@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Cleuza","dg-permalink":"NPC/Cleuza","permalink":"/NPC/Cleuza/","tags":["#NPC","#Personagem"]}
+{"dg-publish":true,"dg-path":"Cleuza","dg-permalink":"NPC/Cleuza","permalink":"/NPC/Cleuza/","hide":true,"tags":["#NPC","#Personagem"]}
 ---
 
 
