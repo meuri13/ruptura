@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Malcom","dg-permalink":"NPC/Malcom","permalink":"/NPC/Malcom/","tags":["#NPC","#Personagem"]}
+{"dg-publish":true,"dg-path":"Malcom","dg-permalink":"NPC/Malcom","permalink":"/NPC/Malcom/","hide":true,"tags":["#NPC","#Personagem"]}
 ---
 
 
@@ -11,7 +11,7 @@
 > |  |  |
 > | ---- | ---- |
 > | Idade | <span></span> |
-> |Grupo| [[z_convertidas/Ordem\|Ordem]]|
+> |Grupo| [[z_convertidas/Ordem.md\|Ordem]]|
 > |Localização atual|[[z_convertidas/Base da ordem.md\|Base da ordem]]|
 > |Condição| <span>Saudável</span>|
 
