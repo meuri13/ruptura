@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Maxuel","dg-permalink":"NPC/Maxuel","permalink":"/NPC/Maxuel/","tags":["#NPC","#Personagem"]}
+{"dg-publish":true,"dg-path":"Maxuel","dg-permalink":"NPC/Maxuel","permalink":"/NPC/Maxuel/","hide":true,"tags":["#NPC","#Personagem"]}
 ---
 
 

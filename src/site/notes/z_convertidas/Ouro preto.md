@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Ouro preto","dg-permalink":"Local/Ouro preto","permalink":"/Local/Ouro preto/","tags":["#Local"]}
+{"dg-publish":true,"dg-path":"Ouro preto","dg-permalink":"Local/Ouro preto","permalink":"/Local/Ouro preto/","hide":true,"tags":["#Local"]}
 ---
 
 

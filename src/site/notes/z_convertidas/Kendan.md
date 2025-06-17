@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Kendan","dg-permalink":"Príncipes/Kendan","permalink":"/Príncipes/Kendan/","tags":["#NPC","#Personagem","#Príncipe","#Liderança"]}
+{"dg-publish":true,"dg-path":"Kendan","dg-permalink":"Príncipes/Kendan","permalink":"/Príncipes/Kendan/","hide":true,"tags":["#NPC","#Personagem","#Príncipe","#Liderança"]}
 ---
 
 

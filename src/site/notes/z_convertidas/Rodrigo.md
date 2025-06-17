@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Rodrigo","dg-permalink":"NPC/Rodrigo","permalink":"/NPC/Rodrigo/","tags":["#NPC","#Personagem"]}
+{"dg-publish":true,"dg-path":"Rodrigo","dg-permalink":"NPC/Rodrigo","permalink":"/NPC/Rodrigo/","hide":true,"tags":["#NPC","#Personagem"]}
 ---
 
 
