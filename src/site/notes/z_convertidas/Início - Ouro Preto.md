@@ -44,8 +44,8 @@ Na tentativa de proteger elas um porão caiu em cima do [[3-Personagens/Players/
 Muitas pessoas morreram (acho que a cidade inteira)
 O oficial [[z_convertidas/Maxuel\|Maxuel]] nos tirou da cidade
 
-**Data da última sessão:** <span class="input-date">14/02/24</span>
-
 ### Resumo
 <div class="input-textarea">Cidade no interior de Minas, me acharam no porão de uma igreja. Menção ao Kendan, dono da igreja e da Rádio, ele que colocou as coisas lá, causava xiado e enlouquecia as pessoas. Muitas pessoas morreram tentando invadir a estação de rádio em um estado meio zumbificado. Maxuel nos salvou e levou pra ordem.
 </div>
+
+**Data da última sessão:** <span class="input-date">14/02/24</span>
