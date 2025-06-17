@@ -11,7 +11,7 @@
 > |  |  |
 > | ---- | ---- |
 > | Idade | <span></span> |
-> |Grupo| [[z_convertidas/Ordem.md\|Ordem]]|
+> |Grupo| [[z_convertidas/Ordem\|Ordem]]|
 > |Localização atual|[[z_convertidas/Base da ordem.md\|Base da ordem]]|
 > |Condição| <span>Saudável</span>|
 

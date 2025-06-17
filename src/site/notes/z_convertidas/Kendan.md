@@ -13,7 +13,7 @@
 > | Pseudônimo | <span>Dr Kendan, Dr Riddle, Riddle, Rei</span> |
 > |Elemento| <span></span>|
 > | Idade | <span></span> |
-> |Grupo| [[z_convertidas/Reino.md\|Reino]]|
+> |Grupo| [[z_convertidas/Reino\|Reino]]|
 > |Propriedade||
 > |Localização atual||
 > |Condição| <span></span>|
