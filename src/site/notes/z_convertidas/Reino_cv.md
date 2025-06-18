@@ -14,10 +14,10 @@
 > | Defesas | <span></span> |
 > |Líder||
 
-> [!cite] Membros
->  | Nome | Pseudônimo | Localização |
-> | ---- | ---------- | ----------- |
-> 
+
+| Nome | Pseudônimo | Localização |
+| ---- | ---------- | ----------- |
+
 { .block-language-dataview}
 
 ```ad-Personagens
