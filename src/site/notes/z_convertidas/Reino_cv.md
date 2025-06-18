@@ -14,31 +14,18 @@
 > | Defesas | <span></span> |
 > |Líder||
 
+<details>
+<summary>Membros</summary>
+
+| Nome                                      | Pseudônimo                                                               | Localização |
+| ----------------------------------------- | ------------------------------------------------------------------------ | ----------- |
+| [[z_convertidas/Kendan_cv_cv.md\|Kendan]] | <ul><li>Dr Kendan</li><li>Dr Riddle</li><li>Riddle</li><li>Rei</li></ul> | \-          |
+
+{ .block-language-dataview}
+</details>
+
 ## Visão geral
 
 ## História
 
 ## Anotações
-
-###### Membros
-| Nome                                      | Pseudônimo                                                               | Localização |
-| ----------------------------------------- | ------------------------------------------------------------------------ | ----------- |
-| [[z_convertidas/Kendan_cv\|Kendan_cv]] | <ul><li>Dr Kendan</li><li>Dr Riddle</li><li>Riddle</li><li>Rei</li></ul> | \-          |
-
-{ .block-language-dataview}
-
-| Nome                                      | Pseudônimo                                                               | Localização |
-| ----------------------------------------- | ------------------------------------------------------------------------ | ----------- |
-| [[z_convertidas/Kendan_cv_cv.md\|Kendan]] | <ul><li>Dr Kendan</li><li>Dr Riddle</li><li>Riddle</li><li>Rei</li></ul> | \-          |
-
-{ .block-language-dataview}
-
-<details>
-  <summary>Membros</summary>
-
-| Nome                                      | Pseudônimo                                                               | Localização |
-| ----------------------------------------- | ------------------------------------------------------------------------ | ----------- |
-| [[z_convertidas/Kendan_cv_cv.md\|Kendan]] | <ul><li>Dr Kendan</li><li>Dr Riddle</li><li>Riddle</li><li>Rei</li></ul> | \-          |
-
-{ .block-language-dataview}
-</details> 
