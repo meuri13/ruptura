@@ -14,14 +14,6 @@
 > | Defesas | <span></span> |
 > |Líder||
 
-```ad-Personagens
-title: Membros
-| Nome                                      | Pseudônimo                                                               | Localização |
-| ----------------------------------------- | ------------------------------------------------------------------------ | ----------- |
-| [[z_convertidas/Kendan_cv\|Kendan_cv]] | <ul><li>Dr Kendan</li><li>Dr Riddle</li><li>Riddle</li><li>Rei</li></ul> | \-          |
-
-{ .block-language-dataview}
-
 ## Visão geral
 
 ## História
