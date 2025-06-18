@@ -1,0 +1,33 @@
+/* Tabelas dentro de <details> com mesmo estilo do ITS Theme */
+details table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--table-row-alt-background, #1a1e24);
+  color: var(--text, #bccad8);
+  border: 1px solid var(--table-border-color, #1a1e24);
+  font-size: var(--table-row-edit-font-size, 0.95em);
+}
+
+details table th {
+  font-weight: var(--table-header-weight, 600);
+  font-size: var(--table-header-size, 1em);
+  background-color: var(--table-header-background, #652121);
+  color: var(--table-header-text-color, #c94d4d);
+  padding: var(--table-header-padding-y, 0.5em) var(--table-header-padding-x, 1em);
+  border: 1px solid var(--table-border-color, #1a1e24);
+}
+
+details table td {
+  background-color: var(--table-column-alt-background, #06080c60);
+  padding: var(--table-cell-padding-y, 0.5em) var(--table-cell-padding-x, 1em);
+  border: 1px solid var(--table-border-color, #1a1e24);
+  word-break: normal;
+}
+
+details table tr:hover {
+  background-color: var(--table-row-background-hover, rgba(168, 60, 60, 0.4));
+}
+
+details table tr:nth-child(even) td {
+  background-color: var(--table-row-alt-background, #1a1e24);
+}
