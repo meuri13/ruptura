@@ -14,7 +14,7 @@
 > | Defesas | <span></span> |
 > |Líder||
 
-<details>
+<details class="table-block">
 <summary>Membros</summary>
 
 | Nome                                      | Pseudônimo                                                               | Localização |
