@@ -12,8 +12,10 @@
 > **[[3-Personagens/Príncipes/Príncipes\|Príncipes]]**
 > ![z_arquivos/Principes.png|425](/img/user/z_arquivos/Principes.png)
 ### Sessões
-| Nome | Data da sessão | Resumo |
-| ---- | -------------- | ------ |
+| Nome                                                                | Data da sessão | Resumo                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[z_convertidas/Início - Ouro Preto_cv\|Início - Ouro Preto_cv]] | 01/02/24       | Cidade no interior de Minas, me acharam no porão de uma igreja. Menção ao Kendan, dono da igreja e da Rádio, ele que colocou as coisas lá, causava xiado e enlouquecia as pessoas. Muitas pessoas morreram tentando invadir a estação de rádio em um estado meio zumbificado. Maxuel nos salvou e levou pra ordem.
+ |
 
 { .block-language-dataview}
 
