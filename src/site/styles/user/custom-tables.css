@@ -1,31 +1,54 @@
-/* Estilo para tabelas dentro de <details> */
-details table {
+/* z-details-table.css */
+
+/* Estilo padrão para blocos <details> com classe */
+details.table-block {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius, 6px);
+  padding: 1rem;
+  margin-block: 1rem;
+  background-color: var(--background-primary-alt);
+  box-shadow: var(--background-modifier-box-shadow) 0 2px 4px;
+}
+
+details.table-block summary {
+  font-weight: 600;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+  color: var(--text-accent);
+}
+
+details.table-block table {
   width: 100%;
   border-collapse: collapse;
-  font-size: var(--table-row-edit-font-size);
-  color: var(--text);
-  background-color: var(--table);
+  text-align: left;
 }
 
-details th {
-  background-color: var(--th);
-  color: var(--table-header-text-color);
-  font-weight: var(--table-header-weight);
-  padding: var(--table-header-padding-y) var(--table-header-padding-x);
+details.table-block th,
+details.table-block td {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--background-modifier-border);
 }
 
-details td {
-  padding: var(--table-cell-padding-y) var(--table-cell-padding-x);
-  background-color: var(--td);
+details.table-block th {
+  background-color: var(--background-primary);
+  font-weight: bold;
 }
 
-/* Remove espaçamento desnecessário */
-details > summary {
-  margin-bottom: 0.2em;
+/* Estilo alternativo (fallback) se não conseguir colocar a classe no <details> */
+details:has(table) {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius, 6px);
+  padding: 1rem;
+  margin-block: 1rem;
+  background-color: var(--background-primary-alt);
+  box-shadow: var(--background-modifier-box-shadow) 0 2px 4px;
 }
 
-/* Alinha o summary com a tabela */
-details {
-  margin-block-start: 1em;
-  margin-block-end: 1em;
+details:has(table) summary {
+  font-weight: 600;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+  color: var(--text-accent);
 }
