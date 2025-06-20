@@ -1,54 +1,35 @@
-/* z-details-table.css */
-
-/* Estilo padrão para blocos <details> com classe */
-details.table-block {
-  border: 1px solid var(--background-modifier-border);
-  border-radius: var(--radius, 6px);
-  padding: 1rem;
-  margin-block: 1rem;
-  background-color: var(--background-primary-alt);
-  box-shadow: var(--background-modifier-box-shadow) 0 2px 4px;
-}
-
-details.table-block summary {
-  font-weight: 600;
-  font-size: 1.1rem;
-  cursor: pointer;
-  margin-bottom: 0.5rem;
-  color: var(--text-accent);
-}
-
-details.table-block table {
+/* Alinha tabelas dentro de <details> com o estilo ITS */
+details table.dataview.table-view-table {
   width: 100%;
+  margin: 1em auto;
   border-collapse: collapse;
+  border: 1px solid var(--table-border-color, #444);
+  background-color: var(--background-primary); /* fundo igual ao restante do site */
+  color: var(--text-normal); /* mantém contraste apropriado no tema dark */
+}
+
+/* Células */
+details table.dataview.table-view-table th,
+details table.dataview.table-view-table td {
+  padding: 0.5em 0.75em;
   text-align: left;
+  border: 1px solid var(--table-border-color, #444);
 }
 
-details.table-block th,
-details.table-block td {
-  padding: 0.5rem 1rem;
-  border: 1px solid var(--background-modifier-border);
-}
-
-details.table-block th {
-  background-color: var(--background-primary);
+/* Cabeçalho */
+details table.dataview.table-view-table th {
+  background-color: var(--table-header-bg, #111111);
   font-weight: bold;
 }
 
-/* Estilo alternativo (fallback) se não conseguir colocar a classe no <details> */
-details:has(table) {
-  border: 1px solid var(--background-modifier-border);
-  border-radius: var(--radius, 6px);
-  padding: 1rem;
-  margin-block: 1rem;
-  background-color: var(--background-primary-alt);
-  box-shadow: var(--background-modifier-box-shadow) 0 2px 4px;
+/* Evita quebra de layout ao lado do infobox */
+details {
+  display: block;
+  clear: both;
 }
 
-details:has(table) summary {
-  font-weight: 600;
-  font-size: 1.1rem;
-  cursor: pointer;
-  margin-bottom: 0.5rem;
-  color: var(--text-accent);
+/* Se o <details> estiver do lado de um infobox flutuante */
+details + .infobox,
+.infobox + details {
+  clear: both;
 }
