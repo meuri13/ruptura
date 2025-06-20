@@ -1,35 +1,41 @@
-/* Alinha tabelas dentro de <details> com o estilo ITS */
-details table.dataview.table-view-table {
-  width: 100%;
-  margin: 1em auto;
-  border-collapse: collapse;
-  border: 1px solid var(--table-border-color, #444);
-  background-color: var(--background-primary); /* fundo igual ao restante do site */
-  color: var(--text-normal); /* mantém contraste apropriado no tema dark */
+/* Remove herança visual do <details> */
+details.metabind-table-block {
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 1em 0;
+  box-shadow: none !important;
 }
 
-/* Células */
-details table.dataview.table-view-table th,
-details table.dataview.table-view-table td {
+/* Estiliza a tabela Dataview dentro do <details> */
+details.metabind-table-block table.dataview.table-view-table {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 1px solid var(--table-border-color, #444);
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+}
+
+/* Cabeçalho da tabela */
+details.metabind-table-block table th {
+  background-color: var(--background-secondary-alt); /* estilo ITS header */
+  color: var(--text-normal);
+  font-weight: bold;
+  padding: 0.5em 0.75em;
+  border: 1px solid var(--table-border-color, #444);
+}
+
+/* Células da tabela */
+details.metabind-table-block table td {
   padding: 0.5em 0.75em;
   text-align: left;
   border: 1px solid var(--table-border-color, #444);
 }
 
-/* Cabeçalho */
-details table.dataview.table-view-table th {
-  background-color: var(--table-header-bg, #111111);
-  font-weight: bold;
-}
-
-/* Evita quebra de layout ao lado do infobox */
-details {
+/* Corrige comportamento ao lado do infobox */
+details.metabind-table-block {
   display: block;
-  clear: both;
-}
-
-/* Se o <details> estiver do lado de um infobox flutuante */
-details + .infobox,
-.infobox + details {
   clear: both;
 }
