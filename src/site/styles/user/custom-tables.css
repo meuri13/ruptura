@@ -39,3 +39,21 @@ details.metabind-table-block {
   display: block;
   clear: both;
 }
+
+.metabind-layout {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.metabind-layout .metabind-table-block {
+  flex: 1 1 65%;
+  min-width: 0;
+}
+
+.metabind-layout .callout[data-callout="infobox"] {
+  flex: 0 0 300px;
+  max-width: 300px;
+}
